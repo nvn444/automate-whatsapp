@@ -33,7 +33,7 @@ def reply():
 
         if option == 1:
             res.message(
-                "You can contact us through phone or e-mail.\n\n*Phone*: 991234 56789 \n*E-mail* : contact@theredvelvet.io")
+                "You can contact us through phone or e-mail.\n\n*Phone*: 9099290487 \n*E-mail* : contact@theredvelvet.io")
         elif option == 2:
             res.message("You have entered *ordering mode*.")
             users.update_one(
